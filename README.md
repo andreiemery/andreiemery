@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreiemery
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Machine Learning with Python 
+- 👀 I’m interested in ... Robotics Programming
+- 🌱 I’m currently learning ... Python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... andreikemery@gmail.com
 
