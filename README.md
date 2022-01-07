@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreiemery
-- 👀 I’m interested in ... Robotics Programming
+- 👀 I’m interested in ... Security
 - 🌱 I’m currently learning ... Python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... andreikemery@gmail.com
